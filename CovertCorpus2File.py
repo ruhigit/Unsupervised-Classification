@@ -1,4 +1,4 @@
-#Code for generating trainig file from the corpus of documents
+# Code for generating trainig file from the corpus of documents
 #Each line in the trainig file corresponds to 1 document in the corpus
 
 
